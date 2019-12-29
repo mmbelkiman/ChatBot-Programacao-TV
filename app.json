@@ -1,6 +1,6 @@
 {
   "name": "Webhook",
-  "description": "Webhook",
-  "repository": "https://github.com/eucm2/webhook.git",
+  "description": "ChatBot-Programacao-TV",
+  "repository": "https://github.com/mmbelkiman/ChatBot-Programacao-TV.git",
   "keywords": ["api.ai", "dialogflow", "natural language"]
 }
